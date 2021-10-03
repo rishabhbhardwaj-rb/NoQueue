@@ -1,5 +1,13 @@
 # NoQueue
 <h3>This is a Food ordering and pickup webapp built for campuses to avoid crowding around food eateries where students can order food and then pickup when the order is ready</h3>
+<h4>Each shop owner will be given a username and a password by admin</h4>
+<h4>
+  <ul>
+    <li>for amul owner:- username: amul, password: amul123</li>
+    <li>for Nescafe owner:- username: nescafe, password: nescafe123</li>
+    <li>for Canteen owner:- username: canteen, password: canteen123</li>
+  </ul>
+</h4>
 <img src="https://user-images.githubusercontent.com/54860348/135756755-607fca3e-b124-4d80-92e2-5181572f5430.png" />
 <img src="https://user-images.githubusercontent.com/54860348/135756776-77db9251-cc3c-4823-a50e-2dfc2578bc3e.png" />
 <img src="https://user-images.githubusercontent.com/54860348/135756784-4acbe4df-fb8e-4c29-8d36-71806007a91d.png" />
