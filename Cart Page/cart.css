@@ -1,0 +1,180 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.containor_main 
+{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #eceff4;
+    display: flex;
+    flex-direction: column;
+    
+}
+.contents_main
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    
+}
+.cartContent
+{
+    margin-top: 40px;
+    width: 80%;
+    height: 200px;
+    background-color: white;
+    /* background-color: red; */
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.containor_items
+{
+    width: 100%;
+    height: 100%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+    
+    
+    border-radius: 5px;
+    padding: 20px;
+    object-fit: cover;
+
+}
+.imagecontainor
+{
+    width: 30%;
+    height: 100%;
+    
+    
+    
+    border-radius: 5px;
+    padding: 20px;
+    object-fit: cover;
+}
+.imagecontainor img 
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 3px;    
+    
+    object-fit: cover;
+
+}
+.description, .items
+{
+    width: 40%;
+    height: 100%;
+    /* background-color: blanchedalmond; */
+    padding: 20px;
+    display: flex;
+
+}
+
+.content_containor
+{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    padding: 20px
+      
+    
+}
+.content_containor h2
+{
+    color: rgb(34, 33, 33);
+    font-weight: 600;
+    text-align: left;
+    margin-left: -150px;
+    
+}
+.content_containor h3
+{
+    text-align: left;
+    margin-left:-150px;
+}
+.add
+{
+    margin: 20px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 2px;
+}
+.subtract
+{
+    margin: 20px;
+    padding: 5px 13px 5px 13px;
+    border: none;
+    border-radius: 2px;
+
+}
+.containor_items p
+{
+    margin-top: 12px;
+}
+.cross 
+{
+    width: 5%;
+    height: 100%;
+    background-color: rgb(231, 52, 52);
+}
+.bin
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(231, 52, 52);
+    border: none;
+    color: white;
+    transition: 0.6s ease;
+    
+}
+.bin:hover
+{
+    background-color: rgb(231, 71, 71);
+}
+
+.final_buttons 
+{   
+    width: 100%;
+    height: 50px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttons_main
+{
+    margin-top: 50px;;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+
+}
+.buttons_main button
+{
+    height: 100%;
+    
+    
+    width: 50%;
+}
+.Back
+{
+    background-color: #2d3436;
+    color: white;
+    border: none;
+}
