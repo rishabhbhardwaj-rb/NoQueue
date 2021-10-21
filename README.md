@@ -1,5 +1,8 @@
 # NoQueue
 <h3>This is a Food ordering and pickup webapp built for campuses to avoid crowding around food eateries where students can order food and then pickup when the order is ready</h3>
+
+<h3>User Login<h3>
+  <h4>user's roll no. should constitute of 11 digits between 0 to 9. for example:-  roll no. :- 00816403218<h4>
 <h4>Each shop owner will be given a username and a password by admin</h4>
 <h4>
   <ul>
